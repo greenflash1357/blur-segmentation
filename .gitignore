@@ -1,0 +1,12 @@
+.hg
+.hgignore
+mrf.jl
+dataset/blurdetect
+dataset/synthetic
+dataset/VOCdevkit
+dataset/evalset
+dataset/statistics.jl
+dataset/train.hdf5
+dataset/test.hdf5
+results/*
+snapshots
